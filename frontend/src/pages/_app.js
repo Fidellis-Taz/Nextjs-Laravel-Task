@@ -1,0 +1,6 @@
+import 'tailwindcss/tailwind.css'
+import "antd/dist/antd.css";
+import "../styles/styles.css"
+ const App = ({ Component, pageProps }) => <Component {...pageProps} />
+
+export default App
